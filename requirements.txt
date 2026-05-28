@@ -1,0 +1,9 @@
+torch
+datasets
+transformers
+pandas
+accelerate
+torchvision
+streamlit
+fastapi
+uvicorn
